@@ -1,0 +1,16 @@
+{
+    "name": "munastack/foundation",
+    "description": "MunaStack Foundation Component",
+    "license": "MIT",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Munastack\\Foundation\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.4"
+    }
+}
